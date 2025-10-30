@@ -1,13 +1,61 @@
-# Hi there 👋, I'm Jatin  
-### 💻 Web Developer | CS Student | MERN Stack Enthusiast  
+# Hi there, I'm Jatin 👋
 
-I love building modern web apps and solving real-world problems with code.  
+![Profile Views](https://komarev.com/ghpvc/?username=JatinRajvani&style=flat-square)
 
-🚀 Currently exploring **Node.js, MongoDB, and Next.js**  
-🌱 Always learning something new every day  
-💬 Ask me about anything related to **Full-Stack Web Development**
+---
 
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinRajvani&show_icons=true&theme=radical)
+## 🚀 About Me
+I'm a passionate software developer focused on building impactful products and learning new technologies. I love collaborating in open source, solving real-world problems, and sharing knowledge.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&layout=compact&theme=tokyonight)
+- 💻 Currently working with: `Python`, `JavaScript`, `React`, `Node.js`
+- 🌱 Learning: `AI/ML`, `TypeScript`, `Cloud Computing`
+- 🏆 Achievements: [List your awards/certifications here]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [Add a fun fact or hobby here!]
 
+---
+
+## 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+<br>
+
+---
+
+## 📈 GitHub Stats
+![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinRajvani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JatinRajvani&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+- [Project Name](https://github.com/JatinRajvani/project-name): Short description of your project.
+- [Another Project](https://github.com/JatinRajvani/another-project): Description of what makes this project special.
+
+---
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace with automated workflow or manually add posts -->
+- [How I Built My First Open Source Project](https://your-blog.com/post1)
+- [Tips for Writing Clean Code](https://your-blog.com/post2)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinrajvani)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+<!--
+**JatinRajvani/JatinRajvani** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
+-->
