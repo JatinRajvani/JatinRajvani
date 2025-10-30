@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Jatin  
+### 💻 Web Developer | CS Student | MERN Stack Enthusiast  
 
-<!--
-**JatinRajvani/JatinRajvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building modern web apps and solving real-world problems with code.  
 
-Here are some ideas to get you started:
+🚀 Currently exploring **Node.js, MongoDB, and Next.js**  
+🌱 Always learning something new every day  
+💬 Ask me about anything related to **Full-Stack Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinRajvani&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&layout=compact&theme=tokyonight)
+
