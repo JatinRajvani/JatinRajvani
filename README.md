@@ -17,8 +17,9 @@
 </h3>
 
 <!-- Social links (completely clean, no underline, proper spacing) -->
+<!-- Social links (horizontal alignment, no underline, clean spacing) -->
 <div align="center"
-     style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: nowrap; margin-top: 25px; white-space: nowrap;">
+     style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 30px; flex-direction: row; text-decoration: none;">
 
   <a href="https://linkedin.com/in/jatinrajvani" target="_blank"
      style="text-decoration: none; border: none; outline: none;">
@@ -45,6 +46,7 @@
   </a>
 
 </div>
+
 
 
 
