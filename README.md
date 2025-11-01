@@ -18,34 +18,24 @@
 
 <!-- Social links (completely clean, no underline, proper spacing) -->
 <!-- Social links (horizontal alignment, no underline, clean spacing) -->
-<div align="center"
-     style="display: flex; justify-content: center; align-items: center; gap: 35px; margin-top: 25px; flex-direction: row; text-decoration: none;">
-
-  <a href="https://linkedin.com/in/jatinrajvani" target="_blank"
-     style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" style="border: none; outline: none;" />
+<p align="center" style="text-decoration: none; margin-top: 25px;">
+  <a href="https://linkedin.com/in/jatinrajvani" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:jatinrajvani.cg@gmail.com" target="_blank"
-     style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Email%20•%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email" style="border: none; outline: none;" />
+  &nbsp;&nbsp;
+  <a href="mailto:jatinrajvani.cg@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Email%20•%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <a href="https://jatinsportfolio.vercel.app/" target="_blank"
-     style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"
-         alt="Portfolio" style="border: none; outline: none;" />
+  &nbsp;&nbsp;
+  <a href="https://jatinsportfolio.vercel.app/" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
-
-  <a href="https://twitter.com/yourusername" target="_blank"
-     style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Twitter" style="border: none; outline: none;" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+</p>
 
-</div>
 
 
 
