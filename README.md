@@ -14,35 +14,25 @@
 
 
 <!-- Social links (final clean version, no underline anywhere) -->
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jatinrajvani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <!-- Email -->
   <a href="mailto:jatinrajvani.cg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20•%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <!-- Portfolio -->
   <a href="https://jatinsportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
 
-  <!-- Twitter -->
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
 </div>
-
-<!-- Center spacing fix -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinrajvani&style=for-the-badge&label=Profile%20views" alt="profile views"/>
-</p>
-
 
 ---
 
