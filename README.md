@@ -18,7 +18,7 @@
 
 <!-- Social links (completely clean, no underline, proper spacing) -->
 <div align="center"
-     style="display: flex; justify-content: center; align-items: center; gap: 32px; flex-wrap: wrap; margin-top: 25px;">
+     style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: nowrap; margin-top: 25px; white-space: nowrap;">
 
   <a href="https://linkedin.com/in/jatinrajvani" target="_blank"
      style="text-decoration: none; border: none; outline: none;">
@@ -45,6 +45,7 @@
   </a>
 
 </div>
+
 
 
 ---
