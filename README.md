@@ -8,8 +8,17 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation" />
 </p>
 
-<h1 align="center" style="font-size:40px;">Hi there, I'm Jatin 👋</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Crafting Digital Experiences with React, Node.js & Cloud</h3>
+<!-- Name & tagline -->
+<h1 align="center">Hi there, I'm Jatin 👋</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Turning Vision into Interactive, Real-World Experiences</h3>
+
+<!-- Social links -->
+<p align="center">
+  <a href="https://linkedin.com/in/jatinrajvani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JatinRajvani&style=flat-square&color=blue" alt="Profile Views" />
