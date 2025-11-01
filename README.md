@@ -12,22 +12,23 @@
 <h1 align="center">Hi there, I'm Jatin 👋</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | Turning Vision into Interactive, Real-World Experiences</h3>
 
-<!-- Social links -->
-<p align="center">
-  <a href="https://linkedin.com/in/jatinrajvani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B520?style=flat&logo=linkedin&logoColor=0077B5&labelColor=00000000" alt="LinkedIn" />
+
+<!-- Social links (clean + modern + larger text) -->
+<p align="center" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/jatinrajvani" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email%20•%20Connect-D1483620?style=flat&logo=gmail&logoColor=D14836&labelColor=00000000" alt="Email" />
+  &nbsp;
+  <a href="mailto:your@email.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email%20•%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-00000020?style=flat&logo=firefox-browser&logoColor=white&labelColor=00000000" alt="Portfolio" />
+  &nbsp;
+  <a href="https://yourportfolio.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F220?style=flat&logo=twitter&logoColor=1DA1F2&labelColor=00000000" alt="Twitter" />
+  &nbsp;
+  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
