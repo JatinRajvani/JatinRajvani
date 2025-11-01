@@ -14,10 +14,21 @@
 
 <!-- Social links -->
 <p align="center">
-  <a href="https://linkedin.com/in/jatinrajvani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/jatinrajvani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B520?style=flat&logo=linkedin&logoColor=0077B5&labelColor=00000000" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email%20•%20Connect-D1483620?style=flat&logo=gmail&logoColor=D14836&labelColor=00000000" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-00000020?style=flat&logo=firefox-browser&logoColor=white&labelColor=00000000" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F220?style=flat&logo=twitter&logoColor=1DA1F2&labelColor=00000000" alt="Twitter" />
+  </a>
 </p>
 
 <p align="center">
