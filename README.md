@@ -1,6 +1,18 @@
-# Hi there, I'm Jatin 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+digital+workspace!;💻+Turning+ideas+into+reality,+one+commit+at+a+time." alt="Typing SVG" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JatinRajvani&style=flat-square)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation" />
+</p>
+
+<h1 align="center">Hi there, I'm Jatin 👋</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Crafting Digital Experiences with React, Node.js & Cloud</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JatinRajvani&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 
 ---
 
