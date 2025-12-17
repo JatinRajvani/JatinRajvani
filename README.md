@@ -9,7 +9,7 @@
 </p>
 
 <!-- Name & tagline -->
-<h1 align="center">Hi there, I'm Jatin 👋</h1>
+<h1 align="center">Hello, I'm Jatin 👋</h1>
 
 <!-- Social links (final clean version, no underline anywhere) -->
 <h3 align="center" style="margin-bottom: 30px;">
