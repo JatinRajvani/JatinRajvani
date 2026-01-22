@@ -67,27 +67,35 @@ I design and build full-stack web applications focused on clean architecture, pe
 <tr>
 
 <td align="center" width="25%">
+  <br/>
   <img src="https://skillicons.dev/icons?i=react&perline=1" height="70"/><br/><br/>
   <b>Frontend Applications</b><br/><br/>
   Responsive, high-performance UI systems
+  <br/><br/>
 </td>
 
 <td align="center" width="25%">
+  <br/>
   <img src="https://skillicons.dev/icons?i=nodejs&perline=1" height="70"/><br/><br/>
   <b>Backend APIs</b><br/><br/>
   Secure, modular server-side systems
+  <br/><br/>
 </td>
 
 <td align="center" width="25%">
+  <br/>
   <img src="https://skillicons.dev/icons?i=mongodb&perline=1" height="70"/><br/><br/>
   <b>Databases</b><br/><br/>
   Structured data models & persistence layers
+  <br/><br/>
 </td>
 
 <td align="center" width="45%">
+  <br/>
   <img src="https://skillicons.dev/icons?i=aws&perline=1" height="70"/><br/><br/>
   <b>Cloud Fundamentals</b><br/><br/>
   Deployment, hosting & monitoring basics
+  <br/><br/>
 </td>
 
 </tr>
