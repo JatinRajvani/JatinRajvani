@@ -180,68 +180,58 @@ Full-stack web applications • API-driven systems • Database-backed platforms
 
 <div align="center">
 
-### Languages & Core
+### Languages & Core Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,java,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,java,html,css" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Cloud & DevOps
+### Cloud, DevOps & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github" />
 </p>
 
-### Tools & Environment
+### Tools & Development Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 </p>
 
 </div>
 
-<details>
-<summary>📦 <b>Click to see detailed tech breakdown</b></summary>
-<br/>
+---
 
-**Frontend:**
-- ⚛️ React - Building interactive UIs
-- 🎨 HTML5/CSS3 - Modern, responsive layouts
-- 🎯 JavaScript ES6+ - Clean, modern code
+### Engineering Focus
 
-**Backend:**
-- 🚀 Node.js - Server-side JavaScript runtime
-- ⚡ Express.js - Fast, minimalist web framework
-- 🔐 JWT - Secure authentication & authorization
+**Frontend:** React, HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Databases:** MongoDB  
+**Cloud & Deployment:** AWS, Vercel, Render  
+**Tools:** Git, GitHub, VS Code, Postman, Figma  
 
-**Databases:**
-- 🍃 MongoDB - NoSQL for flexible data models
-- 🐬 MySQL - Relational database management
+---
 
-**Cloud & Deployment:**
-- ☁️ AWS - Cloud infrastructure & services
-- 🔷 Vercel - Frontend deployment platform
-- 🎨 Render - Backend hosting solution
+### Currently Strengthening
 
-**Currently Learning:**
-- 📊 Data Structures & Algorithms
-- 🏗️ System Design & Architecture
-- ☁️ Advanced AWS Services
-- 🔄 Microservices Patterns
+- Data Structures & Algorithms  
+- Backend Engineering & System Design  
+- Cloud Architecture (AWS)  
+- Scalable Application Patterns  
 
-</details>
+
 
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
