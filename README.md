@@ -12,88 +12,30 @@
 <h1 align="center">Hello, I'm Jatin 👋</h1>
 
 <!-- Social links (final clean version, no underline anywhere) -->
-<h3 align="center" style="margin-bottom: 30px;">
-  🚀 Passionate Full Stack Developer | Turning Vision into Interactive, Real-World Experiences
-</h3>
-
-<!-- Social links (completely clean, no underline, proper spacing) -->
-<!-- Social links (horizontal alignment, no underline, clean spacing) -->
-<p align="center" style="text-decoration: none; margin-top: 25px;">
-  <a href="https://linkedin.com/in/jatinrajvani" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn%20•%20Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jatinrajvani.cg@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Email%20•%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://jatinsportfolio.vercel.app/" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Portfolio%20•%20Visit-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Twitter%20•%20Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+# 💫 About Me:
+Hey, I'm Jatin.<br><br>I design and build software that goes from concept to production.<br>Focused on creating systems that scale and products that are reliable and actually used.<br><br>💻 Tech stack: JavaScript, React, Node.js, Express, MongoDB  <br>🚀 Current focus: Building full-stack web applications  <br>📖 Learning: DSA, scalable architectures, and cloud computing  <br>🤝 Open to collaborating on meaningful projects  <br>☕ Running on caffeine and clean architecture  <br><br>If you're building something worth shipping, let’s connect.<br>
 
 
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Jatin Rajvani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jatin Rajvani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinrajvani.cg@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JatinRajvani&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JatinRajvani&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JatinRajvani&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=JatinRajvani&icon=0&color=13)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-I'm a passionate software developer focused on building impactful products and learning new technologies. I love collaborating in open source, solving real-world problems, and sharing knowledge.
-
-- 💻 Currently working with: `Python`, `JavaScript`, `React`, `Node.js`
-- 🌱 Learning: `AI/ML`, `TypeScript`, `Cloud Computing`
-- 🏆 Achievements: [List your awards/certifications here]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Add a fun fact or hobby here!]
-
----
-
-## 🛠️ My Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-<br>
-
----
-
-## 📈 GitHub Stats
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinRajvani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JatinRajvani&theme=radical)
-
----
-
-## 🌟 Featured Projects
-- [Project Name](https://github.com/JatinRajvani/project-name): Short description of your project.
-- [Another Project](https://github.com/JatinRajvani/another-project): Description of what makes this project special.
-
----
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace with automated workflow or manually add posts -->
-- [How I Built My First Open Source Project](https://your-blog.com/post1)
-- [Tips for Writing Clean Code](https://your-blog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinrajvani)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **JatinRajvani/JatinRajvani** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
