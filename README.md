@@ -385,165 +385,39 @@ Nextjs • MongoDB • Financial APIs
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JatinRajvani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=JatinRajvani&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=c9d1d9&sideLabels=6366f1" alt="GitHub Streak"/>
+<!-- GitHub Stats & Streak -->
+<img width="49%" 
+     src="https://github-readme-stats.vercel.app/api?username=JatinRajvani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" 
+     alt="GitHub Stats"/>
 
-<!-- Language Stats & Activity Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JatinRajvani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=f97316" alt="Activity Graph"/>
+<img width="49%" 
+     src="https://nirzak-streak-stats.vercel.app/?user=JatinRajvani&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=c9d1d9&sideLabels=6366f1" 
+     alt="GitHub Streak"/>
 
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinRajvani/JatinRajvani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JatinRajvani/JatinRajvani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JatinRajvani/JatinRajvani/output/github-contribution-grid-snake.svg">
-</picture>
+<br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=JatinRajvani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
+<!-- Top Languages -->
+<img width="49%" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRajvani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" 
+     alt="Top Languages"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project 1 -->
-<details>
-<summary><b>🛍️ Scalable E-Commerce Platform - Click to expand</b></summary>
-<br/>
-
-<div align="left">
-
-**A production-ready marketplace with real-time inventory management**
-
-🎯 **Key Features:**
-- RESTful API handling 10K+ daily requests
-- JWT-based authentication with RBAC
-- MongoDB schema optimization (60% faster queries)
-- Automated CI/CD pipeline on AWS
-
-📦 **Tech Stack:**
-```
-Frontend: React, HTML5, CSS3
-Backend: Node.js, Express.js
-Database: MongoDB
-Cloud: AWS S3, Vercel
-Auth: JWT
-```
-
-📈 **Metrics:**
-- ✅ 99.9% uptime
-- ⚡ <200ms average response time
-- 🔥 10K+ daily active requests
-
-🔗 [View Repository](#) | [Live Demo](#)
-
-</div>
-
-</details>
-
-<!-- Project 2 -->
-<details>
-<summary><b>🔐 Authentication Microservice - Click to expand</b></summary>
-<br/>
-
-<div align="left">
-
-**Secure, reusable auth service for multi-tenant applications**
-
-🎯 **Key Features:**
-- JWT token refresh with secure rotation
-- Rate limiting & brute-force protection
-- OAuth2 integration (Google, GitHub)
-- Auto-scaling on Render
-
-📦 **Tech Stack:**
-```
-Backend: Node.js, Express.js
-Database: MySQL
-Auth: JWT, OAuth2
-Deployment: Render
-```
-
-📈 **Metrics:**
-- ✅ 5K+ daily auth requests
-- ⚡ <150ms response time
-- 🛡️ Zero security incidents
-
-🔗 [View Repository](#) | [Documentation](#)
-
-</div>
-
-</details>
-
-<!-- Project 3 -->
-<details>
-<summary><b>📊 Real-Time Analytics Dashboard - Click to expand</b></summary>
-<br/>
-
-<div align="left">
-
-**Data visualization platform processing millions of records**
-
-🎯 **Key Features:**
-- Interactive React dashboard with Chart.js
-- WebSocket integration for live updates
-- Query optimization (2s → <300ms)
-- Data aggregation pipeline
-
-📦 **Tech Stack:**
-```
-Frontend: React, Chart.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Real-time: WebSockets
-Cloud: AWS EC2
-```
-
-📈 **Metrics:**
-- ✅ 85% faster query performance
-- ⚡ Real-time data synchronization
-- 📊 10M+ records processed
-
-🔗 [View Repository](#)
-
-</div>
-
-</details>
+<!-- Large Activity Graph -->
+<img width="100%" 
+     src="https://github-readme-activity-graph.vercel.app/graph?username=JatinRajvani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=f97316" 
+     alt="Activity Graph"/>
 
 </div>
 
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-## 🏆 Achievements & Contributions
 
-<div align="center">
-
-<!-- Top Contributed Repos -->
-<img src="https://github-contributor-stats.vercel.app/api?username=JatinRajvani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Top Contributions"/>
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
 
 ## 💭 Developer Wisdom
 
@@ -572,103 +446,15 @@ Cloud: AWS EC2
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Jatin's Focus))
-    Full-Stack Development
-      React Applications
-      Node.js APIs
-      Database Design
-    System Design
-      Scalability Patterns
-      Microservices
-      Cloud Architecture
-    Learning
-      DSA Mastery
-      AWS Certification
-      System Design
-    Open Source
-      Contributing
-      Building
-      Sharing
-```
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-## 📫 Let's Collaborate
-
-<div align="center">
-
-**Building something interesting? Let's connect!**
-
-I'm always open to:
-- 💼 **Job opportunities** in full-stack development
-- 🤝 **Collaborations** on impactful projects
-- 🌟 **Open source** contributions
-- 💬 **Technical discussions** about system design
-
-<br/>
-
-### Quick Links
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**📧 Email**  
-[jatinrajvani.cg@gmail.com](mailto:jatinrajvani.cg@gmail.com)
-
-</td>
-<td align="center" width="25%">
-
-**💼 LinkedIn**  
-[Connect with me](https://linkedin.com/in/Jatin-Rajvani)
-
-</td>
-<td align="center" width="25%">
-
-**🐦 Bluesky**  
-[Follow me](https://bsky.app/profile/Jatin-Rajvani)
-
-</td>
-<td align="center" width="25%">
-
-**💻 GitHub**  
-[Star my repos](https://github.com/JatinRajvani)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
 
 <div align="center">
 
 ### Show some ❤️ by starring repositories you find interesting!
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://visitcount.itsvg.in/api?id=JatinRajvani&label=Profile%20Views&color=6366f1&icon=5&pretty=true" />
-
-**⭐ From [JatinRajvani](https://github.com/JatinRajvani) with 💙**
 
 </div>
 
