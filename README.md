@@ -30,7 +30,7 @@
 
 <br/>
 
-## 🎯 About Me
+## 👋 About Me
 
 <div align="center">
 
@@ -44,14 +44,16 @@
 
 ### Who I Am
 
-I design and build software that goes from **concept to production**, with a strong focus on performance, scalability, and real-world reliability.
+Computer Science student and full-stack web developer passionate about building real-world applications and exploring new technologies.
 
-I enjoy working across the full stack — crafting clean frontend experiences, engineering robust backend systems, and deploying on modern cloud infrastructure.
+I specialize in taking ideas from **concept to production** — crafting intuitive frontend experiences, engineering robust backend systems, and deploying high-performance applications on modern cloud infrastructure.
+
+I enjoy working across the entire development lifecycle, from system design and architecture to implementation, optimization, and deployment.
 
 ---
 
- ## Philosophy  
- **Build systems that matter. Write code that lasts.**
+## Philosophy  
+**Build systems that matter. Write code that lasts.**
 
 ---
 
