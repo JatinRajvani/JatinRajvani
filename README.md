@@ -1,20 +1,22 @@
 <!-- Animated Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=JATIN%20RAJVANI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=52&descSize=18" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=JATIN%20RAJVANI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=52&descSize=18" /> -->
+<div align="center">
+  <img src="https://res.cloudinary.com/doqzxuxb1/image/upload/v1769101135/ChatGPT_Image_Jan_22_2026_09_59_11_PMcopy2_qj0gvi.png" width="100%" />
+</div>
+
 
 
 </div>
 
 <!-- Typing Animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+systems+that+solve+real+problems;From+concept+to+production+%E2%9A%A1;Crafting+reliable+software+%2B+clean+architecture" alt="Typing SVG" />
-</p>
+</p> -->
 
 <!-- Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
-</p>
+
 
 <!-- Profile Views & Activity -->
 <p align="center">
@@ -31,12 +33,27 @@
 <br/>
 
 ## 👋 About Me
-
 <div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="60%" align="left" valign="middle">
 
 ### I'm Jatin — Full-Stack Engineer & Product Builder  
 📍 Ahmedabad, Gujarat, India  
 💼 Building scalable, reliable, production-grade web systems  
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
