@@ -3,7 +3,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=JATIN%20RAJVANI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=52&descSize=18" /> -->
 <div align="center">
-  <img src="https://res.cloudinary.com/doqzxuxb1/image/upload/v1769101135/ChatGPT_Image_Jan_22_2026_09_59_11_PMcopy2_qj0gvi.png" width="100%" />
+  <img src="https://res.cloudinary.com/doqzxuxb1/image/upload/v1769102046/ChatGPT_Image_Jan_22_2026_09_59_11_PMcopy2_qj0gvi.png" />
 </div>
 
 
