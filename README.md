@@ -348,7 +348,7 @@ React • Node.js • Express • MongoDB
 
 <br/>
 
-### 📈 StockMaster — Mutual Fund Management Platform
+### 📈 Mutual Funds — Mutual Fund Management Platform
 
 **Investment tracking and financial planning platform using real mutual fund datasets**
 
@@ -368,7 +368,7 @@ A financial analytics platform built on real mutual fund data to help users trac
 **Tech Stack**  
 Nextjs • MongoDB • Financial APIs  
 
-🔗 **Repository:** [View Repository](https://github.com/JatinRajvani/StockMaster)
+🔗 **Repository:** [View Repository](https://github.com/JatinRajvani/mutal_funds)
 
 <br/><br/>
 
