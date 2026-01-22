@@ -59,26 +59,37 @@ I enjoy working across the entire development lifecycle, from system design and 
 
 ## 🛠 What I Build
 
+I design and build full-stack web applications focused on clean architecture, performance, and real-world usability.
+
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%">
-  <img src="https://skillicons.dev/icons?i=react" /><br/>
-  Frontend Apps
+
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=react&perline=1" height="70"/><br/><br/>
+  <b>Frontend Applications</b><br/><br/>
+  Responsive, high-performance UI systems
 </td>
-<td align="center" width="20%">
-  <img src="https://skillicons.dev/icons?i=nodejs" /><br/>
-  Backend APIs
+
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=1" height="70"/><br/><br/>
+  <b>Backend APIs</b><br/><br/>
+  Secure, modular server-side systems
 </td>
-<td align="center" width="20%">
-  <img src="https://skillicons.dev/icons?i=mongodb" /><br/>
-  Databases
+
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=mongodb&perline=1" height="70"/><br/><br/>
+  <b>Databases</b><br/><br/>
+  Structured data models & persistence layers
 </td>
-<td align="center" width="20%">
-  <img src="https://skillicons.dev/icons?i=aws" /><br/>
-  Cloud Systems
+
+<td align="center" width="45%">
+  <img src="https://skillicons.dev/icons?i=aws&perline=1" height="70"/><br/><br/>
+  <b>Cloud Fundamentals</b><br/><br/>
+  Deployment, hosting & monitoring basics
 </td>
+
 </tr>
 </table>
 
@@ -86,7 +97,7 @@ I enjoy working across the entire development lifecycle, from system design and 
 
 <div align="center">
 
-Modern web applications • Scalable backend services • Cloud infrastructure • Secure authentication systems
+Full-stack web applications • API-driven systems • Database-backed platforms • Cloud deployment fundamentals
 
 </div>
 
