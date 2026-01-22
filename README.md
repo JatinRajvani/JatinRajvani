@@ -112,22 +112,43 @@ Full-stack web applications • API-driven systems • Database-backed platforms
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-<a href="https://linkedin.com/in/Jatin-Rajvani">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="mailto:jatinrajvani.cg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
-<a href="https://bsky.app/profile/Jatin-Rajvani">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="[https://linkedin.com/in/Jatin-Rajvani](https://www.linkedin.com/in/jatin-rajvani/)">
+  <img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="https://twitter.com/JatinRajvani">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/JatinRajvani">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/Jatinrajvani">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
+</a>
+
+<br/><br/>
+
+<a href="https://youtube.com/@YOUR_YOUTUBE_CHANNEL">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://jatinsportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
 </a>
 
 </div>
+
+
 
 <br/>
 
