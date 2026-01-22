@@ -35,7 +35,7 @@
 <div align="center">
 
 ### I'm Jatin — Full-Stack Engineer & Product Builder  
-📍 Ahmedabad, Gujarat, India 
+📍 Ahmedabad, Gujarat, India  
 💼 Building scalable, reliable, production-grade web systems  
 
 </div>
@@ -49,89 +49,45 @@ I design and build software that goes from **concept to production**, with a str
 I enjoy working across the full stack — crafting clean frontend experiences, engineering robust backend systems, and deploying on modern cloud infrastructure.
 
 ---
-### Philosophy  
+
+ ## Philosophy  
  **Build systems that matter. Write code that lasts.**
 
-
 ---
 
-### What I Do Best
+## 🛠 What I Build
 
 <div align="center">
 
-| Focus Area | Expertise |
-|------------|------------|
-| Frontend Engineering | Modern React applications |
-| Backend Systems | Scalable Node.js APIs |
-| Databases | Optimized MongoDB |
-| Cloud Infrastructure | AWS-powered deployments |
-| Security | JWT-based authentication |
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=react" /><br/>
+  Frontend Apps
+</td>
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=nodejs" /><br/>
+  Backend APIs
+</td>
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br/>
+  Databases
+</td>
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=aws" /><br/>
+  Cloud Systems
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-### Currently Learning & Exploring
 
 <div align="center">
 
-| Area | Focus |
-|------|-------|
-| Data Structures & Algorithms | Problem-solving & optimization |
-| System Design | Scalable architecture patterns |
-| Cloud Engineering | Advanced AWS & distributed systems |
+Modern web applications • Scalable backend services • Cloud infrastructure • Secure authentication systems
 
 </div>
 
----
-
-### My Mission
-
-<div align="center">
-
-Ship reliable and scalable products  
-Grow into a strong full-stack engineer  
-Contribute to impactful open source  
-Collaborate with builders worldwide  
-
-Powered by coffee and clean architecture.
-
-</div>
-
-
-
-<details>
-<summary>📖 <b>Click to learn more about my journey</b></summary>
-<br/>
-
-I design and build software that goes from **concept to production**. My focus is on creating systems that scale and products that are reliable and actually used in the real world.
-
-**What drives me:**
-- 🚀 Building production-grade full-stack applications
-- 🏗️ Architecting scalable backend services
-- ⚡ Optimizing performance and reliability
-- 🤝 Collaborating on meaningful projects
-
-**Currently exploring:**
-- 📚 Advanced Data Structures & Algorithms
-- 🏛️ Distributed system design patterns
-- ☁️ Cloud-native architecture on AWS
-- 🔧 Performance optimization techniques
-
-**Fun facts:**
-- 💻 I love debugging almost as much as building
-- ☕ Running on caffeine and clean architecture
-- 🌙 Most productive between 10 PM - 2 AM
-- 🎯 Believer in "Ship fast, iterate faster"
-
-</details>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
 
 ## 🌐 Connect With Me
 
