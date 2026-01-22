@@ -1,7 +1,8 @@
 <!-- Animated Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=JATIN%20RAJVANI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20System%20Architect%20%7C%20Product%20Builder&descAlignY=52&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=JATIN%20RAJVANI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=52&descSize=18" />
+
 
 </div>
 
@@ -31,35 +32,73 @@
 
 ## 🎯 About Me
 
-```javascript
-const jatin = {
-    role: "Full-Stack Engineer",
-    location: "Sanand, Gujarat, India 🇮🇳",
-    currentFocus: "Building scalable web applications",
-    
-    techStack: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "MySQL"],
-        cloud: ["AWS", "Vercel", "Render"],
-        languages: ["C", "C++", "Java", "JavaScript"],
-        auth: ["JWT Authentication"]
-    },
-    
-    learning: ["DSA", "System Design", "Cloud Architecture"],
-    
-    philosophy: "Build systems that matter, write code that lasts",
-    
-    coffee: "☕".repeat(10),
-    
-    lifeGoals: [
-        "Ship reliable and scalable products",
-        "Grow as a strong full-stack engineer",
-        "Contribute to impactful open source",
-        "Connect with builders worldwide"
-    ]
-};
-```
+<div align="center">
+
+### I'm Jatin — Full-Stack Engineer & Product Builder  
+📍 Ahmedabad, Gujarat, India 
+💼 Building scalable, reliable, production-grade web systems  
+
+</div>
+
+---
+
+### Who I Am
+
+I design and build software that goes from **concept to production**, with a strong focus on performance, scalability, and real-world reliability.
+
+I enjoy working across the full stack — crafting clean frontend experiences, engineering robust backend systems, and deploying on modern cloud infrastructure.
+
+---
+### Philosophy  
+ **Build systems that matter. Write code that lasts.**
+
+
+---
+
+### What I Do Best
+
+<div align="center">
+
+| Focus Area | Expertise |
+|------------|------------|
+| Frontend Engineering | Modern React applications |
+| Backend Systems | Scalable Node.js APIs |
+| Databases | Optimized MongoDB |
+| Cloud Infrastructure | AWS-powered deployments |
+| Security | JWT-based authentication |
+
+</div>
+
+---
+
+### Currently Learning & Exploring
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| Data Structures & Algorithms | Problem-solving & optimization |
+| System Design | Scalable architecture patterns |
+| Cloud Engineering | Advanced AWS & distributed systems |
+
+</div>
+
+---
+
+### My Mission
+
+<div align="center">
+
+Ship reliable and scalable products  
+Grow into a strong full-stack engineer  
+Contribute to impactful open source  
+Collaborate with builders worldwide  
+
+Powered by coffee and clean architecture.
+
+</div>
+
+
 
 <details>
 <summary>📖 <b>Click to learn more about my journey</b></summary>
