@@ -35,20 +35,20 @@
 ## 👋 About Me
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 
-<td width="60%" align="left" valign="middle">
+<td width="50%" valign="middle" align="center">
 
-### I'm Jatin — Full-Stack Engineer & Product Builder  
-📍 Ahmedabad, Gujarat, India  
-💼 Building scalable, reliable, production-grade web systems  
+<h2>I'm Jatin — Full-Stack Engineer & Product Builder</h2>
+<p>📍 Ahmedabad, Gujarat, India</p>
+<p>💼 Building scalable, reliable, production-grade web systems</p>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 </td>
 
@@ -56,6 +56,9 @@
 </table>
 
 </div>
+
+
+
 
 ---
 
