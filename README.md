@@ -235,6 +235,152 @@ Full-stack web applications • API-driven systems • Database-backed platforms
 
 <br/>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table width="100%" cellpadding="20">
+
+<tr>
+
+<!-- Project 1 -->
+<td width="50%" valign="top">
+
+<br/>
+
+### 📍 Vedant Attendance System (Client Project)
+
+**Location & face recognition based student attendance tracking platform**
+
+**Overview**  
+A real-world attendance system that verifies students using geo-location and face recognition for accurate and secure tracking.
+
+**Key Features**
+- Location-based attendance validation  
+- Face recognition for identity verification  
+- Microservice-based face recognition system  
+- Real-time attendance tracking  
+- Admin dashboard with:
+  - Student management  
+  - Leave management  
+  - Batch management  
+  - Branch management  
+
+**Architecture**
+- Face recognition service deployed as a Python microservice  
+- Backend API communicates with recognition service  
+- Cloud deployment on AWS  
+
+**Tech Stack**  
+React • Node.js • Express • MongoDB • Python • AWS  
+
+🔗 **Repository:** [View Repository](https://github.com/JatinRajvani/VedantAttendance)
+
+<br/><br/>
+
+</td>
+
+<!-- Project 2 -->
+<td width="50%" valign="top">
+
+<br/>
+
+### 🩸 SEBN — Smart Emergency Blood Network
+
+**Emergency blood discovery network connecting hospitals, NGOs, and blood banks**
+
+**Overview**  
+A centralized platform designed to quickly find and allocate blood during emergency situations through a connected healthcare network.
+
+**Key Features**
+- Hackathon Group Project
+- Multi-role access system (Hospital, NGO, Blood Bank, Super Admin)  
+- Real-time blood availability tracking  
+- Emergency request and allocation workflow  
+- Fallback donor discovery system when blood is unavailable  
+- Super Admin analytics dashboard  
+
+**Tech Stack**  
+React • Node.js • Express • MongoDB • REST APIs  
+
+🔗 **Repository:** [View Repository](https://github.com/VasaraSujal/Hack_The_Winter)
+
+<br/><br/>
+
+</td>
+
+</tr>
+
+<tr><td colspan="2"><br/><br/></td></tr>
+
+<tr>
+
+<!-- Project 3 -->
+<td width="50%" valign="top">
+
+<br/>
+
+### 🏢 Attendance & Payroll Management System
+
+**Employee attendance tracking and payroll automation platform**
+
+**Overview**  
+An enterprise-ready system for managing employee attendance, salary calculation, and payroll processing.
+
+**Key Features**
+- Location-based attendance tracking  
+- Attendance reporting & analytics  
+- Salary calculation engine  
+- Payroll generation  
+- Admin dashboard  
+
+**Tech Stack**  
+React • Node.js • Express • MongoDB  
+
+🔗 **Repository:** [View Repository](https://github.com/aryapatel23/Attendance-and-Payroll-Management)
+
+<br/><br/>
+
+</td>
+
+<!-- Project 4 -->
+<td width="50%" valign="top">
+
+<br/>
+
+### 📈 StockMaster — Mutual Fund Management Platform
+
+**Investment tracking and financial planning platform using real mutual fund datasets**
+
+**Overview**  
+A financial analytics platform built on real mutual fund data to help users track investments and calculate returns.
+
+**Key Features**
+- Mutual fund analytics dashboard  
+- Real-time NAV data processing  
+- Multiple calculators:
+  - SIP Calculator  
+  - Step-Up SIP Calculator  
+  - SWP Calculator  
+  - Step-Up SWP Calculator  
+- Portfolio tracking  
+
+**Tech Stack**  
+Nextjs • MongoDB • Financial APIs  
+
+🔗 **Repository:** [View Repository](https://github.com/JatinRajvani/StockMaster)
+
+<br/><br/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
