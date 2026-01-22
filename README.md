@@ -112,8 +112,6 @@ Full-stack web applications • API-driven systems • Database-backed platforms
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="mailto:jatinrajvani.cg@gmail.com">
@@ -121,7 +119,7 @@ Full-stack web applications • API-driven systems • Database-backed platforms
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="[https://linkedin.com/in/Jatin-Rajvani](https://www.linkedin.com/in/jatin-rajvani/)">
+<a href="https://www.linkedin.com/in/jatin-rajvani/">
   <img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -153,7 +151,8 @@ Full-stack web applications • API-driven systems • Database-backed platforms
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 
 <br/>
 
